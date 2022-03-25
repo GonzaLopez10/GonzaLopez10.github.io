@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Acerca de mi
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Tengo 23 años, soy estudiante del ITSCHI actualmente estoy cursando la materia en Desarrollo WEB, en la cual estoy aprediendo las tecnologias html5, css, boostrap, javascript.
+Me considero una persona entusiasta en la parte de Desarrollo WEB, me gusta trabajar en equipo y me gusta ser colaborador. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
